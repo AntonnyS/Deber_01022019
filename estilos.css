@@ -1,0 +1,13 @@
+/* reglas
+selectores
+declaraciones
+propiedades
+valores */
+header{
+    background: blue;
+    color: orange;
+    /* selector de etiquetas: header - section - article - nav */
+    /* selector descendente */
+    /* body header div nav ol li */
+    /* selector de clase . */
+}
